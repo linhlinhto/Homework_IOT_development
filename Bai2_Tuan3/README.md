@@ -1,0 +1,1 @@
+Bài 2 lập trình điều khiển 2 đèn led bằng 1 nút bấm 1 với các chức năng bấm 2 lần đổi đèn để điều khiển Ví dụ đang điều khiển đèn 1 sẽ chuyển sang điều khiển đèn 2, bấm 1 lần để đổi trạng thái của đèn đang điều khiển, bấm giữ để đèn đang điều khiển nhấp nháy chu kỳ 200ms
